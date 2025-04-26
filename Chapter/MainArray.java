@@ -11,5 +11,7 @@ public class MainArray {
 
         System.out.println(friends.size()); // 2
 
+        // add(), size(), get(), Collection.sort()
+
     }
 }
